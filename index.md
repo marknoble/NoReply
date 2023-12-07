@@ -1,77 +1,37 @@
-# Please Don't Just Say Hello In Chat
+# No Reply
 
-## TL;DR
+## What is "No Reply"?
 
-Modern chat communication should be done in a way that saves time for all
-participants and enables an efficient, asynchronous exchange of information.
-**Don't expect an answer if you just write "Hello" in chat**. Don't call
-someone out of the blue. Instead, phrase a message that allows your chat
-partners to provide a meaningful response as soon as they allocate time to read
-and answer your message.
+"No Reply" is a term used to describe emails that are sent from an address that does not accept replies, such as "no-reply@example.com" or "Do Not Reply". These emails often contain important information or requests, but they do not allow the recipient to respond or ask questions.
 
-## Chat Etiquette
+## Why is "No Reply" bad?
 
-```text
-2010-07-19 12:32:12 you: Hello
-2010-07-19 12:32:15 co-worker: Hi.
-# CO-WORKER WAITS WHILE YOU PHRASE YOUR QUESTION
-2010-07-19 12:34:01 you: I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:35:21 co-worker: Oh, that's [answer...]
-```
+"No Reply" is bad for several reasons:
 
-It's as if you called someone on the phone and said "Hello!" and then put them on
-hold!
+- It is rude and disrespectful to the recipient. It implies that the sender does not care about the recipient's feedback or concerns, and that the sender only wants to talk at the recipient, not with them.
+- It is inefficient and ineffective. It prevents the recipient from clarifying any doubts, resolving any issues, or providing any input. It also creates a communication gap that can lead to misunderstandings, errors, or missed opportunities.
+- It is unprofessional and damaging to the sender's reputation. It shows that the sender does not value the recipient's time or opinion, and that the sender is not willing to listen or learn. It also makes the sender look arrogant, lazy, or incompetent.
 
-Please do this instead:
+## How to avoid "No Reply"?
 
-```text
-2010-07-19 12:32:12 you: Hello -- I'm working on [something] and I'm trying to do [etc...]
-2010-07-19 12:33:32 co-worker: [answers question]
-```
+To avoid "No Reply", you should always use a valid and monitored email address that allows the recipient to reply. This is the basic courtesy and professionalism that you should show to anyone you communicate with via email. Here are some tips on how to do this:
 
-Note that you get help minutes sooner, and you don't make them wait. Instead,
-the co-worker can start thinking about your question right away!
+- Set up a dedicated email address for your company or organization, such as "support@example.com" or "info@example.com". Make sure that this address is checked and responded to regularly by a person or a team.
+- Use the "Reply-To:" field in your email header to specify the email address that you want the recipient to reply to. For example, if you send an email from "newsletter@example.com", but you want the recipient to reply to "feedback@example.com", you can use the "Reply-To:" field to indicate this.
+- Include a clear and polite call to action in your email body that invites the recipient to reply or contact you. For example, you can say "If you have any questions or comments, please reply to this email or call us at 123-456-7890" or "We would love to hear from you. Please share your thoughts with us by replying to this email or filling out this survey".
+- Avoid using phrases like "Do Not Reply", "No Reply", or "This email is not monitored" in your email address or subject line. These phrases are discouraging and off-putting to the recipient, and they may cause your email to be ignored or marked as spam.
 
-You're trying to be polite by not jumping right into the request, like you
-would do in person or on the phone. But Chat is neither of those things. Typing
-is much slower than talking. Instead of being polite, you are just making the
-other person wait for you to phrase your question, which is lost productivity.
+## What to do if you receive a "No Reply" email?
 
-The same goes for "Hello -- Are you there?", "Hi Bob -- quick question.", "Do
-you have a sec ?", "yt?" and "ping". Just ask the question!
+If you receive a "No Reply" email, you have a few options:
 
-If you feel it's brusque to simply say "Hi" and ask the question, you can do
-something like this:
+- You can try to find another way to contact the sender, such as their website, phone number, or social media. You can then express your feedback or concerns, or ask for a valid and monitored email address that you can reply to.
+- You can report the email as junk or spam, and unsubscribe from the sender's mailing list. This will help you reduce the clutter in your inbox, and send a signal to the sender that their email communication policy is unacceptable and needs to change.
+- You can ignore the email and move on. This may not be the most satisfying option, but it may be the most realistic one. Sometimes, you may not have the time, energy, or interest to deal with a "No Reply" email, and that is okay. You can focus on other things that matter more to you.
 
-```text
-2010-07-19 12:32:12 you: Hi -- if you're not busy I was wondering if I could ask a question. I'm working on [something] and I'm trying to do [etc...]
-```
+## Conclusion
 
-Additionally, asking your question before getting a reply allows asynchronous
-communication. If the other party is away, and you leave before they come back,
-they can still answer your question, instead of just staring at a "Hello" and
-wondering what they missed.
+"No Reply" is a bad email communication practice that should be avoided by both senders and recipients. It is rude, inefficient, unprofessional, and damaging to the relationship between the parties involved. Instead, you should always use a valid and monitored email address that allows for a two-way conversation. This will help you build trust, respect, and rapport with your email contacts, and improve your communication outcomes.
 
-## Call Etiquette
-
-Don't call someone out of the blue. Respect that your desired call partner
-might be busy and in [flow](https://en.wikipedia.org/wiki/Flow_(psychology)).
-Calling someone means you request immediate, full attention, interrupting any
-other activity. Some people like to probe with an initial "hello" to verify
-whether the presence status shown is true, hoping they can determine whether
-the recipient is near a device, then will immediately follow up with a call.
-Don't do that either.  If someone is able and willing to answer a chat message,
-it does not mean that they are also available for a voice or video call.
-
-Instead of sending a call probe, or asking "hey, do you have time for a call?"
-(which is better but not great), you can try something like this:
-
-```text
-2020-07-08 12:32:12 you: Hi - do you have X min for a quick call to talk about XYZ? [etc...]
-```
-
-This does three things: it time bounds the request, it gives the recipient some
-context, and it helps you remember what you wanted to talk about if the
-recipient can't or doesn't respond until later.
-
-<sup>The source for this website is open and available on [GitHub](https://github.com/sbmueller/nohello).</sup>
+<sup>The source for this website is open and available on [GitHub](https://github.com/marknoble/NoReply).</sup>
+<sup>Based on [aka.ms/NoHello](https://github.com/sbmueller/nohello) which is based on [NoHello.com](https://nohello.com).</sup>
